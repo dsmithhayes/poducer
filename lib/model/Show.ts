@@ -1,6 +1,7 @@
 type Show = {
   name: string,
-  description: string
+  description: string,
+  author: Author,
 };
 
 export default Show;
