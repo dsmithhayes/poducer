@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "podcast": "^2.0.1"
+    "podcast": "^2.0.1",
+    "toml": "^3.0.0"
   }
 }
